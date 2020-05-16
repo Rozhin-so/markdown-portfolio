@@ -1,4 +1,4 @@
-#here is a list of my favorit things
+#here is a list of my favorite things
 - Long walk
 - Dance
 - learning
